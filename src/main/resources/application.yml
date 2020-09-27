@@ -8,10 +8,3 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     database-platform: org.hibernate.dialect.MySQL8Dialect
-pms:
-  pm1:
-    user: 11
-    name: 22
-  pm2:
-    user: 11
-    name: 22
